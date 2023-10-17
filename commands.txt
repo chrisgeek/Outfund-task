@@ -1,0 +1,3 @@
+check_in,45,Leyton,3
+check_out,45,Waterloo,15
+get_average,Leyton,Waterloo
